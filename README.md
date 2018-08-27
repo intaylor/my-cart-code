@@ -95,7 +95,7 @@ Notes to changes for the required features, issues and invariants:
 7. 'npm test' has been run with problems being fixed.
 
 8. The zip file does not contain the node_modules directory, to run please run 'npm install' after unzip and
-   use the same running steps.
+   use the same running steps. also available repo url: https://github.com/untaylor/my-cart-code
 
 9. Not sure if changes can be committed through git. tried to locate the .git file in the root directory and found
    no such directory and that the original zip file may not be exported from git archive.
