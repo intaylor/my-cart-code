@@ -1,0 +1,90 @@
+.product {
+  display: inline-block;
+  border: 2px solid grey;
+  padding: 4px;
+  text-align: center;
+  margin-top: 12px;
+  margin-left: 20px;
+  margin-right: 40px;
+}
+
+.productImage {
+  display: block;
+  height: 150px;
+  width: 140px;
+  margin: 12px;
+}
+
+.heading {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.cartLogo {
+  width: 110px;
+  height: 120px;
+  vertical-align: middle;
+}
+
+.productsLogo {
+  width: 72px;
+  height: 72px;
+  margin-left: 20px;
+  margin-right: 24px;
+  vertical-align: middle;
+}
+
+.container {
+  display: block;
+  width: 100%;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+
+.container .label {
+  margin-left: 30px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.container button {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  height: 28px;
+  border-radius: 4px;
+  border: 1px solid grey;
+}
+
+.container table {
+  width: 80%;
+  text-align: left;
+  margin-top: 12px;
+  margin-left: 20px;
+}
+
+.container table thead {
+  font-weight: bold;
+  font-size: 18px;
+  border-bottom: 2px solid grey;
+  width: 100%;
+}
+
+.container table tr {
+  font-size: 24px;
+}
+
+.plusSign, .minusSign {
+  width: 20px;
+  height: 20px;
+  margin-top: 4px;
+  margin-left: 12px;
+  margin-right: 6px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.delete {
+  width: 28px;
+  height: 28px;
+  vertical-align: text-bottom;
+}
